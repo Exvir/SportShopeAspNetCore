@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=97df8391_002Dde10_002D495f_002Da4bb_002Dbf4a81e6dc3e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Can_Paginate" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5BEBE55D-BF8B-420E-8E64-2854B72D0277::net5.0::Tests.ProductControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5BEBE55D-BF8B-420E-8E64-2854B72D0277::net5.0::Tests.PageLinkTagHelperTests.Can_Generate_Page_links&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e43a7ff2_002Db7aa_002D4e80_002Dad17_002D74e89022e32d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Can_Paginate #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5BEBE55D-BF8B-420E-8E64-2854B72D0277::net5.0::Tests.ProductControllerTests.Can_Paginate&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

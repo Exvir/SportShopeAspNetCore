@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore", "SportsStore\SportsStore.csproj", "{A5A11CBB-A486-410E-ACA0-986F2F211441}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{5BEBE55D-BF8B-420E-8E64-2854B72D0277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A11CBB-A486-410E-ACA0-986F2F211441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A11CBB-A486-410E-ACA0-986F2F211441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A11CBB-A486-410E-ACA0-986F2F211441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A11CBB-A486-410E-ACA0-986F2F211441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BEBE55D-BF8B-420E-8E64-2854B72D0277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEBE55D-BF8B-420E-8E64-2854B72D0277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEBE55D-BF8B-420E-8E64-2854B72D0277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEBE55D-BF8B-420E-8E64-2854B72D0277}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

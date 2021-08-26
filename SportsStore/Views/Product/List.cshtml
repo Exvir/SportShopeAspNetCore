@@ -1,0 +1,14 @@
+﻿@model ProductsListViewModel
+
+@{
+}
+
+@foreach (var  p in Model.Products)
+{
+    @Html.Partial("ProductSummary", p)
+}
+@for (int i = 1; i <= Model.PagingInfo.TotalPages; i++)
+{
+    <a asp-controller="Product" asp-action="List" asp-route-productPage="@i">@i</a>
+}
+<div page-model="@Model.PagingInfo" page-action="List"></div>
