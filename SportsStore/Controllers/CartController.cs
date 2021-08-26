@@ -39,19 +39,17 @@ namespace SportsStore.Controllers
 
             return RedirectToAction("Index", new {returnUrl});
         }
-        // public RedirectToActionResult RemoveFromCart(int productId, string re)
-        private Cart GetCart()
-        {
-            // Cart cart = HttpContext.Session.GetJson<Cart>("Cart") ?? new Cart();
-            var raw = HttpContext.Session.GetString("Cart");
-            var cart = raw == null ? new Cart(): JsonConvert.DeserializeObject<Cart>(raw);
-            return cart;
-        }
 
-        private void SaveCart(Cart cart)
+        public RedirectToActionResult RemoveFromCart(int productId, string returnUrl)
         {
-            // HttpContext.Session.SetJson("Cart", cart);
-            HttpContext.Session.SetString("Cart", JsonConvert.SerializeObject(cart));
+            Product product = _context.Products
+                .FirstOrDefault(p => p.ProductID == productId);
+            if (product != null)
+            {
+                _cart.RemoveLine(product);
+            }
+
+            return RedirectToAction("Index", new {returnUrl});
         }
     }
 }
