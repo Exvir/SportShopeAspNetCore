@@ -36,10 +36,5 @@ namespace SportsStore.Models
         public virtual IEnumerable<CartLine> Lines => LineCollection;
     }
 
-    public class CartLine
-    {
-        public int CartLineId { get; set; }
-        public Product Product { get; set; }
-        public int Quantity { get; set; }
-    }
+   
 }
