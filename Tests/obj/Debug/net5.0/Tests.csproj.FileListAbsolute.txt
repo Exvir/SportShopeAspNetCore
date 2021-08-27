@@ -238,4 +238,3 @@ F:\local_repo\pet\SportShopeAspNetCore\Tests\bin\Debug\net5.0\SportsStore.dll
 F:\local_repo\pet\SportShopeAspNetCore\Tests\bin\Debug\net5.0\SportsStore.pdb
 F:\local_repo\pet\SportShopeAspNetCore\Tests\obj\Debug\net5.0\Tests.csproj.CopyComplete
 F:\local_repo\pet\SportShopeAspNetCore\Tests\obj\Debug\net5.0\Tests.genruntimeconfig.cache
-F:\local_repo\pet\SportShopeAspNetCore\Tests\bin\Debug\net5.0\bower.json

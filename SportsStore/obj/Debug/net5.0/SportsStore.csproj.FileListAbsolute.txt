@@ -109,3 +109,4 @@ F:\local_repo\pet\SportShopeAspNetCore\SportsStore\obj\Debug\net5.0\SportsStore.
 F:\local_repo\pet\SportShopeAspNetCore\SportsStore\obj\Debug\net5.0\SportsStore.genruntimeconfig.cache
 F:\local_repo\pet\SportShopeAspNetCore\SportsStore\obj\Debug\net5.0\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
 F:\local_repo\pet\SportShopeAspNetCore\SportsStore\obj\Debug\net5.0\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+F:\local_repo\pet\SportShopeAspNetCore\SportsStore\obj\Debug\net5.0\Razor\Views\Order\Checkout.cshtml.g.cs
