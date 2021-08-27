@@ -107,6 +107,5 @@ F:\local_repo\pet\SportShopeAspNetCore\SportsStore\obj\Debug\net5.0\SportsStore.
 F:\local_repo\pet\SportShopeAspNetCore\SportsStore\obj\Debug\net5.0\SportsStore.Views.pdb
 F:\local_repo\pet\SportShopeAspNetCore\SportsStore\obj\Debug\net5.0\SportsStore.csproj.CopyComplete
 F:\local_repo\pet\SportShopeAspNetCore\SportsStore\obj\Debug\net5.0\SportsStore.genruntimeconfig.cache
-F:\local_repo\pet\SportShopeAspNetCore\SportsStore\bin\Debug\net5.0\bower.json
 F:\local_repo\pet\SportShopeAspNetCore\SportsStore\obj\Debug\net5.0\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
 F:\local_repo\pet\SportShopeAspNetCore\SportsStore\obj\Debug\net5.0\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
