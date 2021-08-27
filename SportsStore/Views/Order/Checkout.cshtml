@@ -1,7 +1,8 @@
 ﻿@model Order
 
 <h2>Check our now</h2>
-<p>Pleas enter uyour details</p>
+<p>Please enter your details</p>
+<div asp-validation-summary="All" class="text-danger"></div>
 <form asp-action="Checkout" method="post">
     <h3>Ship to</h3>
     <div class="form-group">
