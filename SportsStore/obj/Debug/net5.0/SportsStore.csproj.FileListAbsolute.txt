@@ -111,3 +111,5 @@ F:\local_repo\pet\SportShopeAspNetCore\SportsStore\obj\Debug\net5.0\Razor\Views\
 F:\local_repo\pet\SportShopeAspNetCore\SportsStore\obj\Debug\net5.0\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
 F:\local_repo\pet\SportShopeAspNetCore\SportsStore\obj\Debug\net5.0\Razor\Views\Order\Checkout.cshtml.g.cs
 F:\local_repo\pet\SportShopeAspNetCore\SportsStore\obj\Debug\net5.0\Razor\Views\Order\Completed.cshtml.g.cs
+F:\local_repo\pet\SportShopeAspNetCore\SportsStore\obj\Debug\net5.0\Razor\Views\Order\List.cshtml.g.cs
+F:\local_repo\pet\SportShopeAspNetCore\SportsStore\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
